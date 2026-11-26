@@ -1,0 +1,13 @@
+# Local Odoo source checkouts and workspace folders (not part of this repo)
+/community/
+/design-themes/
+/enterprise/
+/o-spreadsheet/
+/upgrade/
+/upgrade-util/
+/upgradeSession/
+/tutorials/
+/workshop_addons/
+/Odoo-Full-Stack-Application/
+/odoo-pr-quicklinks-browser-extension/
+/.vscode/
