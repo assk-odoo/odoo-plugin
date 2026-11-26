@@ -1,0 +1,9 @@
+{
+  "name": "odoo-dev-kit",
+  "version": "0.2.0",
+  "description": "Odoo development workflow skills: challenge a specification against standard Odoo, review a PR against the bundled official Odoo guidelines (odoo-guidelines, odoo-web-guidelines, odoo-security, odoo-git), and test a feature end to end.",
+  "author": {
+    "name": "assk-odoo"
+  },
+  "keywords": ["odoo", "review", "specification", "testing"]
+}

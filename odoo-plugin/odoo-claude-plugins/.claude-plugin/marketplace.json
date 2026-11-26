@@ -1,0 +1,13 @@
+{
+  "name": "odoo-claude-plugins",
+  "owner": {
+    "name": "assk-odoo"
+  },
+  "plugins": [
+    {
+      "name": "odoo-dev-kit",
+      "source": "./plugins/odoo-dev-kit",
+      "description": "Odoo development workflow skills: spec clearance, PR review against the official Odoo guidelines, and feature testing."
+    }
+  ]
+}
